@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/coding_platform/static/css/main.40512cdc.css",
+    "main.js": "/coding_platform/static/js/main.6bb2a3dc.js",
+    "index.html": "/coding_platform/index.html",
+    "main.40512cdc.css.map": "/coding_platform/static/css/main.40512cdc.css.map",
+    "main.6bb2a3dc.js.map": "/coding_platform/static/js/main.6bb2a3dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40512cdc.css",
+    "static/js/main.6bb2a3dc.js"
+  ]
+}
